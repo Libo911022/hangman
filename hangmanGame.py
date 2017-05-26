@@ -1,8 +1,6 @@
 #coding=utf-8
 import pandas as pd
 import numpy as np
-import requests
-import json
 
 def word_length(wordguess):
     cnt=0
